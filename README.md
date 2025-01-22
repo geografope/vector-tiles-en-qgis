@@ -1,3 +1,4 @@
+ls
 <img src="img/banner.jpg">
 
 Este repositorio 🗂️ contiene una serie de pasos 📑 de como obtener los vector tiles <img src="https://raw.githubusercontent.com/Viglino/font-gis/refs/heads/main/svg/layer/uEB6D-pyramid.svg" width=20 align="center"/> que se encuentran disponibles en `MapTiler` y como puedes consumirlo a través del software de `QGIS`usando el plugin del mismo nombre. 
@@ -28,6 +29,6 @@ Todo el proceso desarrollado esta explicado al detalle en el siguiente video de 
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/linkedin.svg' width=15 align='center'>https://www.linkedin.com/in/antonybarja/
 
 
-## 🔵 Referencias 
+## ⚫ Referencias 
  - http://maptiler.com/qgis-plugin/
  - https://github.com/ambarja/MapTiler-QGIS

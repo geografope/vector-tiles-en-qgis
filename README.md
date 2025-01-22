@@ -1,4 +1,3 @@
-ls
 <img src="img/banner.jpg">
 
 Este repositorio 🗂️ contiene una serie de pasos 📑 de como obtener los vector tiles <img src="https://raw.githubusercontent.com/Viglino/font-gis/refs/heads/main/svg/layer/uEB6D-pyramid.svg" width=20 align="center"/> que se encuentran disponibles en `MapTiler` y como puedes consumirlo a través del software de `QGIS`usando el plugin del mismo nombre. 

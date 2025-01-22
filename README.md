@@ -18,7 +18,7 @@ Para este video usaremos las siguientes herramientas:
 
 Todo el proceso desarrollado esta explicado al detalle en el siguiente video de YouTube 🎥.
 
-[![Watch the video](https://img.youtube.com/vi//0.jpg)](https://youtu.be/kWKaF6c-ydI?si=)
+[![Watch the video](https://img.youtube.com/vi/zDHCy5XMW_Q/0.jpg)](https://www.youtube.com/watch?v=zDHCy5XMW_Q)
 
 ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de código abierto. 🌟🌍 👇
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'>https://www.youtube.com/@geografope
